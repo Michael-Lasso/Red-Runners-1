@@ -1,4 +1,2 @@
 #!/bin/bash
-
-git pull origin master
-echo "Success"
+git pull
