@@ -5,6 +5,6 @@ This application can be trigger with with script traffic_light_start.sh in the S
 
 The following environment variables should be set for the script to run.
 
-RED_RUNNER_PATH = path to the Red-Runners-1 directory
+RED_RUNNER_PATH = path to the Red-Runners-1 directory.
 
 JAVA_HOME = path to the java bin. JDK 8+
